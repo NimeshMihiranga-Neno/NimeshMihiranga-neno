@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img src="dark.svg" alt="Nimesh Mihiranga — Header" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NimeshMihiranga-Neno/NimeshMihiranga-neno/main/dark.svg?sanitize=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NimeshMihiranga-Neno/NimeshMihiranga-neno/main/light.svg?sanitize=true">
+  <img src="https://raw.githubusercontent.com/NimeshMihiranga-Neno/NimeshMihiranga-neno/main/dark.svg?sanitize=true" alt="Nimesh Mihiranga — Header" width="100%">
 </picture>
 
 <br/>
@@ -200,4 +200,3 @@ links:
 ![Visitor Count](https://komarev.com/ghpvc/?username=NimeshMihiranga&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
