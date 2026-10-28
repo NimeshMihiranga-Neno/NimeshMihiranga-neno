@@ -1,15 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:1a0a2e,100:0f3460&height=180&section=header&text=Nimesh%20Mihiranga&fontSize=44&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20WhatsApp%20Bot%20Developer&descSize=16&descColor=F8FAFC&descAlignY=58" width="100%" alt="Header" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/NimeshMihiranga-Neno/NimeshMihiranga-neno@main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/NimeshMihiranga-Neno/NimeshMihiranga-neno@main/light.svg">
-  <img src="https://cdn.jsdelivr.net/gh/NimeshMihiranga-Neno/NimeshMihiranga-neno@main/dark.svg" alt="Nimesh Mihiranga — Header" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:1a0a2e,100:0f3460&height=180&section=header&text=Nimesh%20Mihiranga&fontSize=44&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Android%20App%20Developer&descSize=16&descColor=F8FAFC&descAlignY=58" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;WhatsApp+Bot+Developer+%F0%9F%A4%96;Founder+of+Team+Black+Cat+%F0%9F%90%B1;Node.js+%7C+Express+%7C+MongoDB+%7C+Baileys;Building+Sakura+XD+%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%92%BB;Android+App+Developer+%F0%9F%93%B1;WhatsApp+Bot+Developer+%F0%9F%A4%96;Founder+of+Team+Black+Cat+%F0%9F%90%B1;Node.js+%7C+Express+%7C+MongoDB+%7C+Android;Building+Sakura+XD+%F0%9F%8C%B8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://nimeshmihiranga.kozow.com)
 [![Sakura XD](https://img.shields.io/badge/Sakura_XD-FF6EC7?style=for-the-badge&logo=whatsapp&logoColor=white)](https://mezukamd.kozow.com)
 
-<img src="https://komarev.com/ghpvc/?username=NimeshMihiranga&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=NimeshMihiranga-Neno&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -27,7 +21,7 @@
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="wave" /> Hi, I'm Nimesh Mihiranga (Neno)
 
-I'm a **self-taught Full Stack Developer from Sri Lanka 🇱🇰** and the founder of **🐱 Team Black Cat / Black Cat Studio**. I build WhatsApp bots, real-time dashboards and scraper APIs, and I care about shipping clean, fast and reliable software.
+I'm a **self-taught Full Stack Developer and Android App Developer from Sri Lanka 🇱🇰**, and the founder of **🐱 Team Black Cat / Black Cat Studio**. I build mobile apps, WhatsApp bots, real-time dashboards and scraper APIs, and I care about shipping clean, fast and reliable software.
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=7C3AED&center=true&vCenter=true&width=500&lines=Build+fast.;Think+deep.;Ship+clean." alt="Philosophy" />
@@ -39,6 +33,7 @@ I'm a **self-taught Full Stack Developer from Sri Lanka 🇱🇰** and the found
 
 ### 🧑‍💻 About
 - 🔭 Currently building **[Sakura XD V1](https://mezukamd.kozow.com)** — WhatsApp bot + web dashboard
+- 📱 Building Android apps alongside full-stack web projects
 - 🌱 Deepening my skills in multi-session architecture & real-time systems
 - 🤝 Open to collaborations and freelance projects
 - ⚡ Fast learner, strong problem solver
@@ -48,6 +43,7 @@ I'm a **self-taught Full Stack Developer from Sri Lanka 🇱🇰** and the found
 <td width="50%" valign="top">
 
 ### 🎯 Specialties
+- 📱 Android app development
 - 🤖 WhatsApp bot development (Baileys, multi-session)
 - 🌐 Full-stack web dashboards (Node.js, Express, MongoDB)
 - 🕸️ Scraper APIs & service platforms
@@ -65,13 +61,14 @@ I'm a **self-taught Full Stack Developer from Sri Lanka 🇱🇰** and the found
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,express,mongodb,firebase,git,github,linux,vscode,postman&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,android,html,css,js,tailwind,nodejs,express,mongodb,firebase,git,github,linux,vscode,postman&theme=dark" alt="Tech stack icons" />
 </a>
 
 <br/><br/>
 
 | Area | Technologies |
 |:---|:---|
+| 📱 **Mobile** | Android · Android Studio · Kotlin · Java · Firebase |
 | 🎨 **Frontend** | HTML · CSS · JavaScript · Tailwind CSS |
 | ⚙️ **Backend** | Node.js · Express · REST APIs |
 | 🤖 **Bots** | Baileys (WhatsApp Web) · Multi-session · Plugin architecture |
@@ -88,6 +85,7 @@ I'm a **self-taught Full Stack Developer from Sri Lanka 🇱🇰** and the found
 
 | | Service | Description |
 |:---:|:---|:---|
+| 📱 | **Android Apps** | Native Android apps with clean UI, backend integration and Firebase |
 | 🤖 | **WhatsApp Bots** | Multi-session bots on Baileys with plugin architecture & MongoDB persistence |
 | 🎨 | **Web Dashboards** | Glass-themed dashboards with live stats, animated UI and admin panels |
 | ⚙️ | **Backend & APIs** | REST APIs with Node.js & Express, plus session and auth management |
@@ -132,10 +130,10 @@ A full-featured WhatsApp bot with a modular command architecture, a real-time we
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NimeshMihiranga&show_icons=true&theme=radical&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=7C3AED&text_color=F8FAFC" width="48%" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshMihiranga&theme=radical&hide_border=true&background=030712&stroke=22D3EE&ring=7C3AED&fire=22D3EE&currStreakLabel=F8FAFC" width="48%" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=NimeshMihiranga-Neno&show_icons=true&theme=radical&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=7C3AED&text_color=F8FAFC" width="48%" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshMihiranga-Neno&theme=radical&hide_border=true&background=030712&stroke=22D3EE&ring=7C3AED&fire=22D3EE&currStreakLabel=F8FAFC" width="48%" alt="GitHub streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshMihiranga&layout=compact&theme=radical&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=F8FAFC" width="48%" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshMihiranga-Neno&layout=compact&theme=radical&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=F8FAFC" width="48%" alt="Top languages" />
 
 </div>
 
@@ -143,7 +141,7 @@ A full-featured WhatsApp bot with a modular command architecture, a real-time we
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NimeshMihiranga&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=NimeshMihiranga-Neno&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="GitHub trophies" />
 
 </div>
 
@@ -151,7 +149,7 @@ A full-featured WhatsApp bot with a modular command architecture, a real-time we
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NimeshMihiranga&bg_color=030712&color=22D3EE&line=7C3AED&point=F8FAFC&area=true&hide_border=true" width="95%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NimeshMihiranga-Neno&bg_color=030712&color=22D3EE&line=7C3AED&point=F8FAFC&area=true&hide_border=true" width="95%" alt="Contribution graph" />
 
 </div>
 
@@ -171,7 +169,7 @@ A full-featured WhatsApp bot with a modular command architecture, a real-time we
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/NimeshMihiranga-Neno/NimeshMihiranga-neno/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
 
 *"Code is the weapon. Team Black Cat pulls the trigger. 🐱"*
 
