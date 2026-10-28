@@ -145,13 +145,13 @@ A full-featured WhatsApp bot with a modular command architecture, a real-time we
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=22D3EE&center=true&vCenter=true&width=500&lines=Open+to+collaborations+%F0%9F%A4%9D;Let's+build+something+great+together!" alt="Contact" />
 
-📱 **WhatsApp:** [+94 621 584 279](https://wa.me/94621584279)
+📱 **WhatsApp:** [+94 621 584 279](https://wa.me/94721584279)
 
 ✈️ **Telegram:** [@NimeshMihiranga](https://t.me/NimeshMihiranga)
 
-🌐 **Portfolio:** [nimeshmihiranga.kozow.com](https://nimeshmihiranga.kozow.com)
+🌐 **Portfolio:** [nimesh.kurox.site](https://nimesh.kurox.site)
 
-🌸 **Sakura XD:** [mezukamd.kozow.com](https://mezukamd.kozow.com)
+🌸 **Sakura XD:** [saku.kurox.site](https://saku.kurox.site)
 
 </div>
 
