@@ -137,22 +137,6 @@ A full-featured WhatsApp bot with a modular command architecture, a real-time we
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NimeshMihiranga-Neno&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="GitHub trophies" />
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NimeshMihiranga-Neno&bg_color=030712&color=22D3EE&line=7C3AED&point=F8FAFC&area=true&hide_border=true" width="95%" alt="Contribution graph" />
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 📬 Let's Connect
@@ -161,9 +145,13 @@ A full-featured WhatsApp bot with a modular command architecture, a real-time we
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=22D3EE&center=true&vCenter=true&width=500&lines=Open+to+collaborations+%F0%9F%A4%9D;Let's+build+something+great+together!" alt="Contact" />
 
-| 📱 WhatsApp | ✈️ Telegram | 🌐 Portfolio | 🌸 Sakura XD |
-|:---:|:---:|:---:|:---:|
-| [+94 621 584 279](https://wa.me/94621584279) | [@NimeshMihiranga](https://t.me/NimeshMihiranga) | [nimeshmihiranga.kozow.com](https://nimeshmihiranga.kozow.com) | [mezukamd.kozow.com](https://mezukamd.kozow.com) |
+📱 **WhatsApp:** [+94 621 584 279](https://wa.me/94621584279)
+
+✈️ **Telegram:** [@NimeshMihiranga](https://t.me/NimeshMihiranga)
+
+🌐 **Portfolio:** [nimeshmihiranga.kozow.com](https://nimeshmihiranga.kozow.com)
+
+🌸 **Sakura XD:** [mezukamd.kozow.com](https://mezukamd.kozow.com)
 
 </div>
 
